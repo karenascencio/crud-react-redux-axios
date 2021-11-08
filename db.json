@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Carrot juice",
+      "price": "2.99"
+    },
+    {
+      "id": 2,
+      "name": "Orange juice",
+      "price": "1.99"
+    },
+    {
+      "name": "Organic orange juice",
+      "price": "4.99",
+      "id": 3
+    },
+    {
+      "name": "Salmon",
+      "price": "8.99",
+      "id": 4
+    },
+    {
+      "name": "Strawberries",
+      "price": "3.99",
+      "id": 5
+    }
+  ]
+}
